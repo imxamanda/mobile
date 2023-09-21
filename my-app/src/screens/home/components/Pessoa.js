@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
         marginTop: 10
     },
     card: {
+        
 
     },
     label: {
